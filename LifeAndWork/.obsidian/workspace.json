@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Шпаргалка Obsidian/Работа с текстом.md",
-                "mode": "preview",
+                "file": "ASP.NET Core/Фронтенд/Фронтенд (база).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1729f0ab3a35aa71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASP.NET Core/Директории проекта.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73967291da2481a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ASP.NET Core/Директории проекта.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aed14e1caf31f7bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Мини пояснения/Сериализация и Десериализация.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Шпаргалка Obsidian/Работа с текстом.md",
+                "file": "Мини пояснения/Сериализация и Десериализация.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Шпаргалка Obsidian/Работа с текстом.md",
+                "file": "Мини пояснения/Сериализация и Десериализация.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Шпаргалка Obsidian/Работа с текстом.md"
+                "file": "Мини пояснения/Сериализация и Десериализация.md"
               }
             }
           }
@@ -146,25 +183,32 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "984ddbe157a95f13",
+  "active": "aed14e1caf31f7bf",
   "lastOpenFiles": [
-    "Вложения/Pasted image 20240816030923.png",
+    "Мини пояснения/json объект ключ-значение.md",
+    "ASP.NET Core/Директории проекта.md",
+    "Мини пояснения/Сериализация и Десериализация.md",
+    "Мини пояснения",
+    "ASP.NET Core/Фронтенд/Фронтенд (база).md",
+    "ключ- значение.md",
+    "json ключ-значение.md",
+    "Шпаргалка Obsidian/Работа с Обсидиан (текст).md",
+    "Вложения/Директории проекта",
+    "Вложения/Директории проекта/Pasted image 20240817232623.png",
+    "ASP.NET Core",
+    "Вложения/Шпаргалка обсидиан/Pasted image 20240816030923.png",
     "Вложения/Шпаргалка обсидиан/Зачеркивание.png",
     "Вложения/Шпаргалка обсидиан/Цитирование.png",
-    "Шпаргалка Obsidian/Работа с текстом.md",
     "Вложения/Шпаргалка обсидиан/Таблицы.png",
     "Вложения/Шпаргалка обсидиан/Блоки кода.png",
     "Вложения/Шпаргалка обсидиан/Встроенный код.png",
     "Вложения/Шпаргалка обсидиан/Имя файла Ворон Б.png",
     "Pasted image 20240816023251.png",
     "Pasted image 20240816023250.png",
-    "Вложения/Шпаргалка обсидиан/Имя файла Ворон.png",
-    "Pasted image 20240816022730.png",
     "Вложения/Шпаргалка обсидиан",
     "Вложения",
-    "ASP.NET Core/Основные понятия.md",
     "Шпаргалка Obsidian",
-    "ASP.NET Core",
+    "ASP.NET Core/Фронтенд",
     "Без названия/Без названия.md",
     "создайте ссылку.md",
     "Добро пожаловать.md"
