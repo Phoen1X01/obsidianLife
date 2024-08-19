@@ -109,14 +109,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP.NET Core/Бэкэнд/Директории проекта.md",
+                "file": "Интернет/OSI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "75ae3ae046b2eeb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Интернет/HTTP и HTTPS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc615f64fd07bf36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Интернет/HTTP и HTTPS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e8464bb62a0257af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "криптография/Асимметричное шифрование.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0e3d62b81cc80ce8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "криптография/Асимметричное шифрование.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27cc18afcaea0a42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "криптография/База криптографии.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -182,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASP.NET Core/Бэкэнд/Директории проекта.md",
+                "file": "криптография/База криптографии.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASP.NET Core/Бэкэнд/Директории проекта.md",
+                "file": "криптография/База криптографии.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASP.NET Core/Бэкэнд/Директории проекта.md"
+                "file": "криптография/База криптографии.md"
               }
             }
           }
@@ -243,16 +303,26 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7d3a6c55e73cc5c3",
+  "active": "431214ecaf73660c",
   "lastOpenFiles": [
+    "криптография/Асимметричное шифрование.md",
+    "криптография/База криптографии.md",
+    "криптография/Симметричное шифрование.md",
+    "Интернет/HTTP и HTTPS.md",
+    "криптография",
+    "Интернет/OSI.md",
+    "Интернет/TCP IP (концепция DOD).md",
+    "Интернет/Сокет.md",
+    "Интернет/Интернет.md",
+    "Интернет/API.md",
+    "ASP.NET Core/Бэкэнд/Директории проекта.md",
+    "Вложения/Pasted image 20240819220554.png",
+    "Вложения/Pasted image 20240819220429.png",
+    "Вложения/Pasted image 20240819214857.png",
+    "Без названия.canvas",
     "ASP.NET Core/Бэкэнд/Запросы.md",
     "Мини пояснения/json объект.md",
-    "ASP.NET Core/Бэкэнд/Директории проекта.md",
-    "Интернет/Интернет.md",
-    "Интернет/Сокет.md",
-    "Интернет/OSI.md",
     "Мини пояснения/Сериализация и Десериализация.md",
-    "Интернет/HTTP и HTTPS.md",
     "Шпаргалка Obsidian/Работа с Обсидиан (текст).md",
     "ASP.NET Core/Фронтенд/Фронтенд (база).md",
     "Вложения/Pasted image 20240819004818.png",
@@ -269,9 +339,6 @@
     "Вложения/Шпаргалка обсидиан/Цитирование.png",
     "Вложения/Шпаргалка обсидиан/Таблицы.png",
     "Вложения/Шпаргалка обсидиан/Блоки кода.png",
-    "Вложения/Шпаргалка обсидиан/Встроенный код.png",
-    "Вложения/Шпаргалка обсидиан/Имя файла Ворон Б.png",
-    "Pasted image 20240816023251.png",
     "Вложения/Шпаргалка обсидиан",
     "Вложения",
     "Шпаргалка Obsidian",
