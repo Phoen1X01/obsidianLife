@@ -169,7 +169,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "криптография/База криптографии.md",
+                "file": "Интернет/HTTP и HTTPS.md",
                 "mode": "source",
                 "source": false
               }
@@ -242,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "криптография/База криптографии.md",
+                "file": "Интернет/HTTP и HTTPS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "криптография/База криптографии.md",
+                "file": "Интернет/HTTP и HTTPS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "криптография/База криптографии.md"
+                "file": "Интернет/HTTP и HTTPS.md"
               }
             }
           }
@@ -303,15 +303,19 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "431214ecaf73660c",
+  "active": "27cc18afcaea0a42",
   "lastOpenFiles": [
-    "криптография/Асимметричное шифрование.md",
     "криптография/База криптографии.md",
     "криптография/Симметричное шифрование.md",
-    "Интернет/HTTP и HTTPS.md",
-    "криптография",
-    "Интернет/OSI.md",
+    "криптография/Асимметричное шифрование.md",
+    "Вложения/Pasted image 20240820023541.png",
+    "Вложения/Pasted image 20240820022455.png",
+    "Вложения/Pasted image 20240820022122.png",
     "Интернет/TCP IP (концепция DOD).md",
+    "Интернет/OSI.md",
+    "Интернет/HTTP и HTTPS.md",
+    "TCP IP.md",
+    "криптография",
     "Интернет/Сокет.md",
     "Интернет/Интернет.md",
     "Интернет/API.md",
@@ -336,9 +340,6 @@
     "ASP.NET Core",
     "Вложения/Шпаргалка обсидиан/Pasted image 20240816030923.png",
     "Вложения/Шпаргалка обсидиан/Зачеркивание.png",
-    "Вложения/Шпаргалка обсидиан/Цитирование.png",
-    "Вложения/Шпаргалка обсидиан/Таблицы.png",
-    "Вложения/Шпаргалка обсидиан/Блоки кода.png",
     "Вложения/Шпаргалка обсидиан",
     "Вложения",
     "Шпаргалка Obsidian",
