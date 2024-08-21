@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Наука/Шаблон для научных статей.md",
+                "file": "Интернет/API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c3b3a362e9eb32b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Интернет/HTTP и HTTPS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "deddc4f491205298",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Интернет/REST API.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ad65982a31e20d8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Интернет/REST API.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Наука/Шаблон для научных статей.md",
+                "file": "Интернет/REST API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Наука/Шаблон для научных статей.md",
+                "file": "Интернет/REST API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Наука/Шаблон для научных статей.md"
+                "file": "Интернет/REST API.md"
               }
             }
           }
@@ -146,25 +183,27 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "e4d72047c294ab2b",
+  "active": "ad65982a31e20d8a",
   "lastOpenFiles": [
-    "Без названия.md",
+    "Интернет/HTTP и HTTPS.md",
+    "Интернет/REST API.md",
+    "Интернет/Swagger.md",
+    "Интернет/Методы запроса.md",
+    "Интернет/API.md",
+    "Мини пояснения/Сериализация и Десериализация.md",
+    "Интернет/Сокет.md",
+    "Мини пояснения/json объект.md",
+    "Шпаргалка Obsidian/Работа с Обсидиан (текст).md",
     "Наука/Шаблон для научных статей.md",
+    "криптография/Асимметричное шифрование.md",
     "криптография/База криптографии.md",
+    "криптография/Симметричное шифрование.md",
     "Интернет/TCP IP (концепция DOD).md",
     "Интернет/OSI.md",
     "Интернет/Интернет.md",
-    "Наука",
-    "Интернет/Сокет.md",
-    "Интернет/API.md",
-    "Интернет/HTTP и HTTPS.md",
-    "Мини пояснения/Сериализация и Десериализация.md",
-    "ASP.NET Core/Бэкэнд/Запросы.md",
     "ASP.NET Core/Бэкэнд/Директории проекта.md",
-    "Шпаргалка Obsidian/Работа с Обсидиан (текст).md",
-    "Мини пояснения/json объект.md",
-    "криптография/Симметричное шифрование.md",
-    "криптография/Асимметричное шифрование.md",
+    "Наука",
+    "ASP.NET Core/Бэкэнд/Запросы.md",
     "Вложения/Pasted image 20240820051801.png",
     "Вложения/Pasted image 20240820023541.png",
     "Вложения/Pasted image 20240820022455.png",
