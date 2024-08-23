@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bootstrap.md",
+                "file": "ASP.NET Core/Фронтенд/Фронтенд.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bootstrap.md",
+                "file": "ASP.NET Core/Фронтенд/Фронтенд.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bootstrap.md",
+                "file": "ASP.NET Core/Фронтенд/Фронтенд.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bootstrap.md"
+                "file": "ASP.NET Core/Фронтенд/Фронтенд.md"
               }
             }
           }
@@ -241,31 +241,31 @@
   },
   "active": "af1dde3b983542cc",
   "lastOpenFiles": [
-    "Bootstrap.md",
-    "Интернет/Методы запроса.md",
-    "Интернет/HTTP и HTTPS.md",
-    "Интернет/TCP IP (концепция DOD).md",
-    "Интернет/Swagger.md",
     "Интернет/REST API.md",
-    "ASP.NET Core/Фронтенд/JS.md",
-    "ASP.NET Core/Фронтенд/HTML.md",
-    "ASP.NET Core/Фронтенд/Фронтенд.md",
-    "ASP.NET Core/Фронтенд/CSS.md",
-    "Шпаргалка Obsidian/Работа с Обсидиан (текст).md",
-    "Мини пояснения/Сериализация и Десериализация.md",
-    "ASP.NET Core/Директории проекта.md",
-    "ASP.NET Core/Бэкэнд/Бэкэнд.md",
-    "ASP.NET Core/Бэкэнд/Запросы.md",
-    "Без названия",
-    "Интернет/API.md",
-    "Интернет/Сокет.md",
     "Мини пояснения/json объект.md",
+    "Интернет/Интернет.md",
+    "ASP.NET Core/Фронтенд/CSS.md",
+    "ASP.NET Core/Бэкэнд/Запросы.md",
+    "ASP.NET Core/Бэкэнд/Бэкэнд.md",
+    "Шпаргалка Obsidian/Работа с Обсидиан (текст).md",
     "Наука/Шаблон для научных статей.md",
+    "Мини пояснения/Сериализация и Десериализация.md",
+    "Интернет/Методы запроса.md",
+    "Интернет/Сокет.md",
+    "Интернет/API.md",
+    "Интернет/HTTP и HTTPS.md",
+    "Интернет/Swagger.md",
+    "Интернет/OSI.md",
+    "ASP.NET Core/Фронтенд/Bootstrap.md",
+    "ASP.NET Core/Фронтенд/HTML.md",
+    "Интернет/TCP IP (концепция DOD).md",
+    "ASP.NET Core/Фронтенд/JS.md",
+    "ASP.NET Core/Фронтенд/Фронтенд.md",
+    "ASP.NET Core/Директории проекта.md",
+    "Без названия",
     "криптография/Асимметричное шифрование.md",
     "криптография/База криптографии.md",
     "криптография/Симметричное шифрование.md",
-    "Интернет/OSI.md",
-    "Интернет/Интернет.md",
     "Наука",
     "Вложения/Pasted image 20240820051801.png",
     "Вложения/Pasted image 20240820023541.png",
