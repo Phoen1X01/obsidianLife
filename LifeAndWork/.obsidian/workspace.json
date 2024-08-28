@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP.NET Core/Фронтенд/Фронтенд.md",
+                "file": "ASP.NET Core/Фронтенд/Bootstrap.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASP.NET Core/Фронтенд/Фронтенд.md",
+                "file": "ASP.NET Core/Фронтенд/Bootstrap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASP.NET Core/Фронтенд/Фронтенд.md",
+                "file": "ASP.NET Core/Фронтенд/Bootstrap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASP.NET Core/Фронтенд/Фронтенд.md"
+                "file": "ASP.NET Core/Фронтенд/Bootstrap.md"
               }
             }
           }
@@ -241,10 +241,14 @@
   },
   "active": "af1dde3b983542cc",
   "lastOpenFiles": [
+    "ASP.NET Core/Фронтенд/CSS.md",
+    "ASP.NET Core/Фронтенд/Bootstrap.md",
+    "ASP.NET Core/Фронтенд/HTML.md",
+    "ASP.NET Core/Директории проекта.md",
+    "ASP.NET Core/Фронтенд/Фронтенд.md",
     "Интернет/REST API.md",
     "Мини пояснения/json объект.md",
     "Интернет/Интернет.md",
-    "ASP.NET Core/Фронтенд/CSS.md",
     "ASP.NET Core/Бэкэнд/Запросы.md",
     "ASP.NET Core/Бэкэнд/Бэкэнд.md",
     "Шпаргалка Obsidian/Работа с Обсидиан (текст).md",
@@ -256,12 +260,8 @@
     "Интернет/HTTP и HTTPS.md",
     "Интернет/Swagger.md",
     "Интернет/OSI.md",
-    "ASP.NET Core/Фронтенд/Bootstrap.md",
-    "ASP.NET Core/Фронтенд/HTML.md",
     "Интернет/TCP IP (концепция DOD).md",
     "ASP.NET Core/Фронтенд/JS.md",
-    "ASP.NET Core/Фронтенд/Фронтенд.md",
-    "ASP.NET Core/Директории проекта.md",
     "Без названия",
     "криптография/Асимметричное шифрование.md",
     "криптография/База криптографии.md",

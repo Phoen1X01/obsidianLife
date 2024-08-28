@@ -11,3 +11,5 @@ color: blue; стили на которые мы будем менять
 color: violet; стиль
 }
 ```
+
+border: 10px solid #FEFEFEA0; добавление границ
