@@ -8,90 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e4d72047c294ab2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Интернет/API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2c3b3a362e9eb32b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Интернет/HTTP и HTTPS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "deddc4f491205298",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Интернет/REST API.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad65982a31e20d8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP.NET Core/Фронтенд/Фронтенд.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d96a2fe57d86d53c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP.NET Core/Директории проекта.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e91f24f2a46f5a9f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP.NET Core/Фронтенд/HTML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f8987b3390b039c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ASP.NET Core/Фронтенд/CSS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "04731395fda0b26e",
             "type": "leaf",
             "state": {
@@ -100,19 +16,55 @@
             }
           },
           {
-            "id": "af1dde3b983542cc",
+            "id": "37813e609a9824da",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP.NET Core/Фронтенд/Bootstrap.md",
+                "file": "Бэкенд/Базы данных/Реляционные БД.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6f345f9a0646fb2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Бэкенд/Базы данных/Реляционные БД.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c20b2ec882ca6c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Бэкенд/Базы данных/Не реляционные.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "996ef278df37d989",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Бэкенд/Базы данных/ORM.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -178,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASP.NET Core/Фронтенд/Bootstrap.md",
+                "file": "Бэкенд/Базы данных/ORM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASP.NET Core/Фронтенд/Bootstrap.md",
+                "file": "Бэкенд/Базы данных/ORM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASP.NET Core/Фронтенд/Bootstrap.md"
+                "file": "Бэкенд/Базы данных/ORM.md"
               }
             }
           }
@@ -239,39 +191,43 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "af1dde3b983542cc",
+  "active": "996ef278df37d989",
   "lastOpenFiles": [
+    "Бэкенд/Базы данных/Реляционные БД.md",
+    "Бэкенд/Базы данных/ORM.md",
+    "Бэкенд/Базы данных/Не реляционные.md",
+    "Бэкенд/Базы данных/Базы данных.md",
+    "ASP.NET Core/Директории проекта.md",
+    "Бэкенд/Базы данных/ASID.md",
+    "Бэкенд/Базы данных/Объектно-реляционные.md",
+    "Вложения/Pasted image 20240904181631.png",
+    "Интернет/Интернет.md",
+    "Интернет/Методы запроса.md",
+    "Интернет/REST API.md",
+    "Интернет/OSI.md",
+    "Интернет/HTTP и HTTPS.md",
+    "Интернет/API.md",
+    "Бэкенд/Базы данных",
+    "Мини пояснения/json объект.md",
     "Шпаргалка Obsidian/Работа с Обсидиан (текст).md",
+    "Интернет/TCP IP (концепция DOD).md",
+    "Бэкенд",
+    "Интернет/Swagger.md",
     "ASP.NET Core/Фронтенд/Bootstrap.md",
     "ASP.NET Core/Фронтенд/CSS.md",
     "ASP.NET Core/Фронтенд/HTML.md",
-    "ASP.NET Core/Директории проекта.md",
     "ASP.NET Core/Фронтенд/Фронтенд.md",
-    "Интернет/REST API.md",
-    "Мини пояснения/json объект.md",
-    "Интернет/Интернет.md",
     "ASP.NET Core/Бэкэнд/Запросы.md",
     "ASP.NET Core/Бэкэнд/Бэкэнд.md",
     "Наука/Шаблон для научных статей.md",
     "Мини пояснения/Сериализация и Десериализация.md",
-    "Интернет/Методы запроса.md",
     "Интернет/Сокет.md",
-    "Интернет/API.md",
-    "Интернет/HTTP и HTTPS.md",
-    "Интернет/Swagger.md",
-    "Интернет/OSI.md",
-    "Интернет/TCP IP (концепция DOD).md",
-    "ASP.NET Core/Фронтенд/JS.md",
     "Без названия",
-    "криптография/Асимметричное шифрование.md",
-    "криптография/База криптографии.md",
-    "криптография/Симметричное шифрование.md",
     "Наука",
     "Вложения/Pasted image 20240820051801.png",
     "Вложения/Pasted image 20240820023541.png",
     "Вложения/Pasted image 20240820022455.png",
     "Вложения/Pasted image 20240820022122.png",
-    "TCP IP.md",
     "криптография",
     "Вложения/Pasted image 20240819220554.png",
     "Вложения/Pasted image 20240819220429.png",
@@ -281,12 +237,8 @@
     "Интернет",
     "ASP.NET Core/Бэкэнд",
     "Мини пояснения",
-    "ключ- значение.md",
     "Вложения/Директории проекта",
     "Вложения/Директории проекта/Pasted image 20240817232623.png",
-    "ASP.NET Core",
-    "Вложения/Шпаргалка обсидиан/Pasted image 20240816030923.png",
-    "Вложения/Шпаргалка обсидиан",
-    "Вложения"
+    "ASP.NET Core"
   ]
 }
