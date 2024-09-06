@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бэкенд/Базы данных/ORM.md",
+                "file": "Бэкенд/Базы данных/ASID.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Бэкенд/Базы данных/ORM.md",
+                "file": "Бэкенд/Базы данных/ASID.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Бэкенд/Базы данных/ORM.md",
+                "file": "Бэкенд/Базы данных/ASID.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Бэкенд/Базы данных/ORM.md"
+                "file": "Бэкенд/Базы данных/ASID.md"
               }
             }
           }
@@ -193,13 +193,13 @@
   },
   "active": "996ef278df37d989",
   "lastOpenFiles": [
-    "Бэкенд/Базы данных/Реляционные БД.md",
     "Бэкенд/Базы данных/ORM.md",
+    "Бэкенд/Базы данных/ASID.md",
+    "Бэкенд/Базы данных/Реляционные БД.md",
+    "Бэкенд/Базы данных/Объектно-реляционные.md",
     "Бэкенд/Базы данных/Не реляционные.md",
     "Бэкенд/Базы данных/Базы данных.md",
     "ASP.NET Core/Директории проекта.md",
-    "Бэкенд/Базы данных/ASID.md",
-    "Бэкенд/Базы данных/Объектно-реляционные.md",
     "Вложения/Pasted image 20240904181631.png",
     "Интернет/Интернет.md",
     "Интернет/Методы запроса.md",
