@@ -8,75 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "04731395fda0b26e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "37813e609a9824da",
+            "id": "cc973b1555b5f719",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Бэкенд/Базы данных/Реляционные БД.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6f345f9a0646fb2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Бэкенд/Базы данных/Реляционные БД.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c20b2ec882ca6c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Бэкенд/Базы данных/Не реляционные.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "996ef278df37d989",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Бэкенд/Базы данных/Реляционные БД.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0aa97d649ade6a61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Языки программирования/Декларативные/SQL.md",
+                "file": "ASP.NET Core/Бэкэнд/Бэкэнд.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Языки программирования/Декларативные/SQL.md",
+                "file": "ASP.NET Core/Бэкэнд/Бэкэнд.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Языки программирования/Декларативные/SQL.md",
+                "file": "ASP.NET Core/Бэкэнд/Бэкэнд.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Языки программирования/Декларативные/SQL.md"
+                "file": "ASP.NET Core/Бэкэнд/Бэкэнд.md"
               }
             }
           }
@@ -203,54 +146,53 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "0aa97d649ade6a61",
+  "active": "431214ecaf73660c",
   "lastOpenFiles": [
+    "Бэкенд/Базы данных/Базы данных.md",
+    "Бэкенд/Базы данных/Миграция БД.md",
+    "Бэкенд/Базы данных/ORM.md",
+    "ASP.NET Core/Бэкэнд/Бэкэнд.md",
+    "Вложения/Pasted image 20240924031146.png",
+    "Вложения/Pasted image 20240924020418.png",
+    "ASP.NET Core/Бэкэнд/Запросы.md",
+    "ASP.NET Core/Бэкэнд/Подключение SQLite.md",
+    "Окружение в Windows.md",
+    "Интернет/OSI.md",
+    "Интернет/TCP IP (концепция DOD).md",
+    "Бэкенд/Базы данных/ASID.md",
+    "Бэкенд/Базы данных/Не реляционные.md",
+    "Интернет/Интернет.md",
+    "Вложения/Pasted image 20240921235500.png",
+    "Бэкенд/Базы данных/Объектно-реляционные.md",
     "Бэкенд/Базы данных/Реляционные БД.md",
+    "Интернет/Методы запроса.md",
+    "Интернет/REST API.md",
+    "Интернет/HTTP и HTTPS.md",
+    "Интернет/API.md",
+    "Интернет/Сокет.md",
+    "Вложения/Pasted image 20240915205825.png",
+    "ASP.NET Core/Директории проекта.md",
+    "Вложения/Pasted image 20240915204744.png",
+    "Вложения/Pasted image 20240915203002.png",
+    "ASP.NET Core/Бэкэнд/подключение базы данных.md",
+    "Вложения/Pasted image 20240915202402.png",
+    "Вложения/Pasted image 20240915194942.png",
+    "Вложения/Pasted image 20240915194804.png",
     "Языки программирования/Декларативные/SQL.md",
     "Языки программирования/Процедурные",
     "Языки программирования/Декларативные",
     "Языки программирования",
-    "Бэкенд/Базы данных/ASID.md",
-    "Бэкенд/Базы данных/Базы данных.md",
-    "Бэкенд/Базы данных/Не реляционные.md",
-    "Бэкенд/Базы данных/Объектно-реляционные.md",
-    "Бэкенд/Базы данных/ORM.md",
     "2024-09-10.md",
     "Интернет/Swagger.md",
     "Без названия.canvas",
     "Шпаргалка Obsidian/Работа с Обсидиан (текст).md",
-    "ASP.NET Core/Фронтенд/Bootstrap.md",
-    "Интернет/Интернет.md",
-    "криптография/Асимметричное шифрование.md",
-    "Мини пояснения/json объект.md",
-    "ASP.NET Core/Директории проекта.md",
     "Вложения/Pasted image 20240904181631.png",
-    "Интернет/Методы запроса.md",
-    "Интернет/REST API.md",
-    "Интернет/OSI.md",
-    "Интернет/HTTP и HTTPS.md",
-    "Интернет/API.md",
     "Бэкенд/Базы данных",
-    "Интернет/TCP IP (концепция DOD).md",
     "Бэкенд",
-    "ASP.NET Core/Фронтенд/CSS.md",
-    "ASP.NET Core/Фронтенд/HTML.md",
-    "ASP.NET Core/Фронтенд/Фронтенд.md",
-    "ASP.NET Core/Бэкэнд/Запросы.md",
-    "ASP.NET Core/Бэкэнд/Бэкэнд.md",
     "Без названия",
     "Наука",
-    "Вложения/Pasted image 20240820051801.png",
-    "Вложения/Pasted image 20240820023541.png",
-    "Вложения/Pasted image 20240820022455.png",
-    "Вложения/Pasted image 20240820022122.png",
     "криптография",
-    "Вложения/Pasted image 20240819220554.png",
-    "Вложения/Pasted image 20240819220429.png",
-    "Вложения/Pasted image 20240819214857.png",
-    "Вложения/Pasted image 20240819004818.png",
     "Интернет",
-    "ASP.NET Core/Бэкэнд",
-    "Вложения/Директории проекта/Pasted image 20240817232623.png"
+    "ASP.NET Core/Бэкэнд"
   ]
 }
