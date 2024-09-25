@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ASP.NET Core/Бэкэнд/Бэкэнд.md",
+                "file": "Бэкенд/Базы данных/Реляционные БД.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e9ba335e497d366",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Бэкенд/Базы данных/Реляционные БД.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "транзакция",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ASP.NET Core/Бэкэнд/Бэкэнд.md",
+                "file": "Бэкенд/Базы данных/Реляционные БД.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ASP.NET Core/Бэкэнд/Бэкэнд.md",
+                "file": "Бэкенд/Базы данных/Реляционные БД.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ASP.NET Core/Бэкэнд/Бэкэнд.md"
+                "file": "Бэкенд/Базы данных/Реляционные БД.md"
               }
             }
           }
@@ -146,32 +159,36 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "431214ecaf73660c",
+  "active": "5e9ba335e497d366",
   "lastOpenFiles": [
+    "Бэкенд/Базы данных/Объектно-реляционные.md",
     "Бэкенд/Базы данных/Базы данных.md",
+    "Бэкенд/Базы данных/Не реляционные.md",
     "Бэкенд/Базы данных/Миграция БД.md",
-    "Бэкенд/Базы данных/ORM.md",
     "ASP.NET Core/Бэкэнд/Бэкэнд.md",
-    "Вложения/Pasted image 20240924031146.png",
-    "Вложения/Pasted image 20240924020418.png",
     "ASP.NET Core/Бэкэнд/Запросы.md",
     "ASP.NET Core/Бэкэнд/Подключение SQLite.md",
-    "Окружение в Windows.md",
-    "Интернет/OSI.md",
-    "Интернет/TCP IP (концепция DOD).md",
+    "Бэкенд/Базы данных/Нормализация, Денормализация.md",
     "Бэкенд/Базы данных/ASID.md",
-    "Бэкенд/Базы данных/Не реляционные.md",
-    "Интернет/Интернет.md",
-    "Вложения/Pasted image 20240921235500.png",
-    "Бэкенд/Базы данных/Объектно-реляционные.md",
-    "Бэкенд/Базы данных/Реляционные БД.md",
-    "Интернет/Методы запроса.md",
-    "Интернет/REST API.md",
-    "Интернет/HTTP и HTTPS.md",
-    "Интернет/API.md",
-    "Интернет/Сокет.md",
-    "Вложения/Pasted image 20240915205825.png",
     "ASP.NET Core/Директории проекта.md",
+    "Бэкенд/Базы данных/Реляционные БД.md",
+    "Бэкенд/Базы данных/ORM.md",
+    "Мини пояснения/Сериализация и Десериализация.md",
+    "ASP.NET Core/Фронтенд/CSS.md",
+    "Интернет/Интернет.md",
+    "Интернет/Методы запроса.md",
+    "Интернет/Сокет.md",
+    "Интернет/API.md",
+    "Интернет/HTTP и HTTPS.md",
+    "Интернет/OSI.md",
+    "Интернет/REST API.md",
+    "Интернет/Swagger.md",
+    "Вложения/Pasted image 20240924031146.png",
+    "Вложения/Pasted image 20240924020418.png",
+    "Окружение в Windows.md",
+    "Интернет/TCP IP (концепция DOD).md",
+    "Вложения/Pasted image 20240921235500.png",
+    "Вложения/Pasted image 20240915205825.png",
     "Вложения/Pasted image 20240915204744.png",
     "Вложения/Pasted image 20240915203002.png",
     "ASP.NET Core/Бэкэнд/подключение базы данных.md",
@@ -182,10 +199,7 @@
     "Языки программирования/Процедурные",
     "Языки программирования/Декларативные",
     "Языки программирования",
-    "2024-09-10.md",
-    "Интернет/Swagger.md",
     "Без названия.canvas",
-    "Шпаргалка Obsidian/Работа с Обсидиан (текст).md",
     "Вложения/Pasted image 20240904181631.png",
     "Бэкенд/Базы данных",
     "Бэкенд",
